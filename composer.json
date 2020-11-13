@@ -23,5 +23,6 @@
     "require": {
         "php": "^7.2",
         "magento/magento2-base": "^2.3"
-    }
+    },
+    "minimum-stability": "dev"
 }
